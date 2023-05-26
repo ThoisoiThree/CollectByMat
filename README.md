@@ -4,7 +4,7 @@ Is a simple script that sorts meshes depending on their materials
 
 ![Demo](https://i.ibb.co/MnztsKf/Collect.gif)
 
-To install the script just move the `CollectByMat` folder to your C4D `scripts` folder :   
+To install the script just move the `CollectByMat` folder to your C4D `scripts` folder:   
 ```
    C:\Program Files\Maxon Cinema 4D 2023.2\library\scripts
 ```
