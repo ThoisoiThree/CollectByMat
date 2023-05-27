@@ -2,7 +2,7 @@
 ### Is a simple script that sorts meshes depending on their materials
   
 
-![Demo](https://i.ibb.co/PZwrJVH/demo.gif)
+![Demo](demo.gif)
 
 ## Installation:
 * **To install the script just move the files from `CollectByMat` folder to your C4D `scripts` folder:**
