@@ -1,18 +1,18 @@
-# CollectByMat!
-Is a simple script that sorts meshes depending on their materials  
-**Just in one click!**   
+# CollectByMat
+### Is a simple script that sorts meshes depending on their materials
+  
 
-![Demo](https://i.ibb.co/MnztsKf/Collect.gif)
+![Demo](https://i.ibb.co/PZwrJVH/demo.gif)
 
-To install the script just move the `CollectByMat` folder to your C4D `scripts` folder:   
-```
-   C:\Program Files\Maxon Cinema 4D 2023.2\library\scripts
-```
+## Installation:
+* **To install the script just move the files from `CollectByMat` folder to your C4D `scripts` folder:**
 
-# How to find script in C4D:
-![Demo](https://i.ibb.co/SrvVMk6/path.jpg)
+![Installation](https://i.ibb.co/Tmfj3Tp/path2.jpg)
+> If you want to change the icon, rename `CollectByMat_v2.tif` to `CollectByMat.tif` and replace the original file   
+> You can also install it manually: just move the `CollectByMat` folder to your C4D `scripts` folder
 
+## How to find the script in C4D:
+![ScriptInC4D](https://i.ibb.co/c603kMr/L3bzbu-QB1-Ns.jpg)
 
-If you want to change the icon, you can rename `CollectByMat_v2.tiff` to `CollectByMat.tiff` and replace the original file
 
 > Cinema 4D R20+ is required 
